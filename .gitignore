@@ -1,0 +1,7 @@
+__pycache__/
+*.egg-info/
+.venv/
+build/
+# reports contain MACs, SSIDs and locations; they live in ~/.local/share/travelsec, never here
+reports/
+*.pcap
